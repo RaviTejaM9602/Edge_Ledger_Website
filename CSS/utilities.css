@@ -104,8 +104,14 @@
   text-align: center;
 }
 
-.flex-columns .row .column {
-  height: 100%;
+.flex-columns .row .column-2 {
+  height: 98%;
+  width: 50%;
 }
 
+.flex-columns .row .column-1 {
+  object-fit: cover;
+  height: 100%;
+  width: 50%;
+}
 
