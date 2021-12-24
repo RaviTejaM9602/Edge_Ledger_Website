@@ -99,3 +99,13 @@
   padding: 20px;
 }
 
+.flex-columns .row {
+  display: flex;
+  text-align: center;
+}
+
+.flex-columns .row .column {
+  height: 100%;
+}
+
+
